@@ -1,0 +1,1 @@
+if transaction is format of danskebank and amount does not equal 100 then accept it;

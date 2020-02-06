@@ -1,0 +1,1 @@
+if transaction is format of danskebank and certificate is equivalent to eIDAS_qualified then accept it;

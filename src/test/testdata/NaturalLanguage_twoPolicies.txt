@@ -1,0 +1,2 @@
+if transaction is format of danskebank and amount greater than 100 then accept it;
+if transaction is format of danskebank and amount less than 10 then accept it;

@@ -1,0 +1,1 @@
+if transaction is format of danskebank and cat.amount greater than 100 and dog.amount greater than 100 then accept it;
